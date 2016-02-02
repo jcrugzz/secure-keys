@@ -1,7 +1,7 @@
 # secure-keys
 
 [![build
-status](https://secure.travis-ci.org/jcrugzz/secure-keys.svg)](http://travis-ci.org/jcrugzz/secure-keys)
+status](https://travis-ci.org/jcrugzz/secure-keys.svg?branch=master)](http://travis-ci.org/jcrugzz/secure-keys)
 
 A simple module that encrypts/decrypts the keys of a given object
 
